@@ -7,24 +7,24 @@ $inter: Inter, 'Helvetica Neue', 'Source Sans Pro', 'Source Han Sans SC',
 
 // -- V3 Colors
 
-$color-accent-blue: #2c6bed;
-$color-accent-green: #4caf50;
-$color-accent-red: #f44336;
-$color-accent-yellow: #ffd624;
+$color-accent-blue: #6272a4;
+$color-accent-green: #50fa7b;
+$color-accent-red: #ff5555;
+$color-accent-yellow: #f1fa8c;
 
-$color-white: #ffffff;
-$color-gray-02: #f6f6f6;
-$color-gray-05: #e9e9e9;
-$color-gray-15: #dedede;
-$color-gray-20: #c6c6c6;
-$color-gray-25: #b9b9b9;
-$color-gray-45: #848484;
-$color-gray-60: #5e5e5e;
-$color-gray-65: #4a4a4a;
-$color-gray-75: #3b3b3b;
-$color-gray-80: #2e2e2e;
-$color-gray-90: #1b1b1b;
-$color-gray-95: #121212;
+$color-white: #FFFFFF;
+$color-gray-02: #F8F8F8;
+$color-gray-05: #E5E5E6;
+$color-gray-15: #D2D2D4;
+$color-gray-20: #BFBFC3;
+$color-gray-25: #ACADB1;
+$color-gray-45: #999A9F;
+$color-gray-60: #86878E;
+$color-gray-65: #73747C;
+$color-gray-75: #60626A;
+$color-gray-80: #4D4F59;
+$color-gray-90: #3A3C47;
+$color-gray-95: #282A36;
 $color-black: #000000;
 
 $color-white-alpha-20: rgba($color-white, 0.2);
@@ -38,10 +38,10 @@ $color-black-alpha-20: rgba($color-black, 0.2);
 $color-black-alpha-40: rgba($color-black, 0.4);
 $color-black-alpha-60: rgba($color-black, 0.6);
 
-$ultramarine-brand-light: #3a76f0;
-$ultramarine-brand-dark: #1851b4;
-$ultramarine-ui-light: #2c6bed;
-$ultramarine-ui-dark: #6191f3;
+$ultramarine-brand-light: #6272a4;
+$ultramarine-brand-dark: #6272a4;
+$ultramarine-ui-light: #6272a4;
+$ultramarine-ui-dark: #6272a4;
 
 $color-crimson: #cc163d;
 $color-vermilion: #c73800;
@@ -186,7 +186,7 @@ $conversation-colors-shade: (
 $color-white-alpha-40: rgba($color-white, 0.4);
 
 // Used in tap-to-view error states
-$color-deep-red: #ff261f;
+$color-deep-red: #ff5555;
 
 // -- A few layout variables used cross-file
 
